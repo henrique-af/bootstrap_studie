@@ -1,4 +1,44 @@
 .photo {
-    border: 1px solid rgb(26, 26, 26);
-    border-radius: 50%;
+    border: 0.2px solid black;
+    border-top: 0.4px solid black;
+    border-radius: 5px;
+    margin: 2px;
+}
+
+body{
+    font: 13px Segoe-UI, sans-serif
+}
+
+.navbar {
+    color:white;
+    border: 0.001mm black;
+    border-style: dashed;
+    font-size: 29px;
+}
+
+.quem-somos {
+    background-color: ;
+    color: black;
+    border-bottom: 0.05px solid black;
+}
+
+.margin {
+    padding-bottom: 1mm;
+    padding-top: 1mm;
+}
+
+.parceiros{
+    background-color: whitesmoke;
+    color: black;
+}
+
+.servicos{
+    border-top: 0.05px solid black;
+    border-bottom: 0.05px dotted black;
+}
+
+.bg-footer{
+    background-color: grey;
+    color:black;
+    font-style: italic initial;
 }
